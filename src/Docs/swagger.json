@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "localhost"
+      "url": "https://task-managment-6r8i.onrender.com"
     }
   ],
   "tags": [
