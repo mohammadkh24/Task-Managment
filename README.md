@@ -42,10 +42,10 @@ npm install
 Create a `.env` file in the root directory:
 
 ```env
-PORT=5000
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-REDIS_URL=your_redis_url
+PORT=3000
+MONGO_URI=mongodb://localhost:27017/Task_Managment
+JWT_SECRET=d9bd9dc9-0073-4ab7-b1cb-1579e73e66a2
+Redis_URI=redis://localhost:6379
 ```
 
 ---
