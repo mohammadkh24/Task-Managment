@@ -84,4 +84,4 @@ Each task has a `locked` field. To modify or delete a task, it must not be locke
 
 ## 🧠 Author
 
-Made with ❤️ by [Your Name](https://github.com/mohammadkh24)
+Made with ❤️ by [Mohammad](https://github.com/mohammadkh24)
