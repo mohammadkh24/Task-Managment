@@ -72,7 +72,7 @@ Access your live interactive API docs here:
 
 ### 📬 Postman Collection  
 Import the full API collection into Postman from this link:  
-👉 [Postman Collection]([https://www.postman.com/your-postman-link](https://www.postman.com/teamwork-4920/workspace/my-workspace/collection/38477852-20553109-c11c-43e0-88d9-a2343c1452e4?action=share&creator=38477852))
+👉 [Postman Collection](https://www.postman.com/your-postman-link](https://www.postman.com/teamwork-4920/workspace/my-workspace/collection/38477852-20553109-c11c-43e0-88d9-a2343c1452e4?action=share&creator=38477852))
 
 ---
 
